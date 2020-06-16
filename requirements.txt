@@ -7,3 +7,4 @@ jupyter
 jupyter_contrib_nbextensions
 pytest
 nbval
+graphviz
